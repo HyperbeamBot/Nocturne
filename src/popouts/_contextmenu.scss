@@ -1,0 +1,25 @@
+.theme-light .menu-1QACrS {
+  background: var(--background-light);
+}
+.theme-dark .menu-1QACrS {
+  background: var(--background-dark);
+}
+
+#app-mount {
+  .menu-1QACrS {
+    box-shadow: var(--box-shadow);
+  }
+  .item-1OdjEX {
+    line-height: normal;
+    &:active, &.focused-3qFvc8:not(.colorDanger-2qLCe1) {
+      background: rgba(var(--accent), 1);
+    }
+    &.colorPremium-p4p7qO {
+      color: rgba(var(--discord-nitro) / 1);
+      &.focused-3qFvc8 {
+        color: #fff;
+        background: rgba(var(--discord-nitro) / 1);
+      }
+    }
+  }
+}

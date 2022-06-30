@@ -1,0 +1,28 @@
+#app-mount [aria-label="USER_SETTINGS"] {
+  .paymentPane-ut5qKZ {
+    background: var(--background-alt);
+  }
+  .paginator-1eqD2g {
+    background: transparent;
+  }
+  .bottomDivider-ZmTm-j {
+    border: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  .payment-2bOh4k {
+    background: transparent;
+    &:hover {
+      background: var(--background-light-alt);
+    }
+    &:not(.hoverablePayment-lE1s4t) {
+      background: var(--background-light);
+      padding-bottom: 20px;
+    }
+  }
+  .expandedInfo-1W31i3 {
+    background: var(--background-light-alt);
+    margin: 0 20px;
+  }
+}

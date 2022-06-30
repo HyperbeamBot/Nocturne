@@ -1,0 +1,42 @@
+#app-mount {
+  .contentWrapper-3vHNP2 {
+    background: var(--background-light-alt);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+  }
+  .scroller-2MALzE::-webkit-scrollbar {
+    display: none;
+  }
+  .container-1SX9VC {
+    background: var(--background);
+    border: 1px solid var(--background);
+    transition: border-color .15s ease;
+    &:hover {
+      border-color: var(--background-light);
+    }
+    &:focus-within {
+      border-color: rgba(var(--accent), 1);
+    }
+  }
+
+  .wrapper-22rqw6 {
+    background: var(--background);
+  }
+
+
+  .list-3V14yy {
+    .listItems-6eZzQ1 {
+      left: 0 !important;
+    }
+    ul[role="row"] {
+      padding-left: 8px;
+    }
+		.wrapper-1NNaWG {
+			background: var(--background-light-alt);
+			padding-left: 12px;
+		}
+		.inspector-DFKXwB {
+			background: var(--background-light);
+		}
+  }
+}

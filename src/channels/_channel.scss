@@ -1,0 +1,49 @@
+#app-mount {
+  .wrapper-NhbLHG {
+    height: auto;
+    margin-bottom: 2px;
+    &.modeMuted-2T4MDZ .name-28HaxV {
+      color: var(--text-muted);
+    }
+
+    &.modeUnread-3Cxepe .icon-2W8DHg {
+      color: var(--text-focus);
+    }
+
+    &.modeSelected-3DmyhH {
+      .icon-2W8DHg {
+        color: var(--text-focus);
+      }
+      &:before {
+        content: "";
+        position: absolute;
+        top: 1px;
+        height: calc(100% - 2px);
+        width: 4px;
+        background: rgb(var(--accent), 1);
+        z-index: 1;
+      }
+    }
+
+    &.typeThread-2Aqh6X .content-1gYQeQ {
+      padding-left: 42px;
+    }
+  }
+  .spine-29OFwR {
+    z-index: 1;
+  }
+  .content-1gYQeQ {
+    margin-left: 0;
+    border-radius: 0 var(--border-radius) var(--border-radius) 0;
+    padding-left: 16px;
+  }
+  .unread-36eUEm {
+    z-index: 2;
+  }
+
+
+  // Voice
+  .avatarSpeaking-2pCGrZ {
+    box-shadow: inset 0 0 0 2px rgba(var(--accent), 1), inset 0 0 0 3px var(--background);
+  }
+}

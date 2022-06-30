@@ -1,0 +1,11 @@
+#app-mount .input-2g-os5 {
+  background: var(--background-dark);
+  border: 1px solid var(--background-dark);
+  border-radius: var(--border-radius);
+  &:hover {
+    border-color: var(--background-light);
+  }
+  &:focus {
+    border-color: rgba(var(--accent), 1)
+  }
+}

@@ -1,0 +1,30 @@
+#app-mount .member-2gU6Ar {
+  .botTagRegular-kpctgU {
+    background: rgba(var(--accent), 1);
+  }
+
+  &:hover .layout-1qmrhw {
+    background: var(--background-alt);
+  }
+  &:active .layout-1qmrhw {
+    background: var(--background-light);
+  }
+  &.selected-1-Z6gm .layout-1qmrhw {
+    background: rgba(var(--accent), 1);
+    .roleColor-rz2vM0,
+    .activity-2EQDZv,
+    .premiumIcon-1rDbWQ,
+    .username-i5-wv- span {
+      color: #fff !important;
+    }
+    rect[fill="#43b581"],
+    rect[fill="#faa61a"],
+    rect[fill="#f04747"] {
+      fill: #fff;
+    }
+    .botTagRegular-kpctgU {
+      background: #fff;
+      color: rgba(var(--accent), 1);
+    }
+  }
+}

@@ -1,0 +1,253 @@
+#app-mount {
+  // General messages
+  .message-2CShn3 {
+    .scrollableContainer-15eg7h {
+      background: var(--edit-message-box);
+      box-shadow: none;
+      .slateTextArea-27tjG0 {
+        padding-left: 15px;
+      }
+    }
+		// Buttons
+    .wrapper-2vIMkT {
+      background: var(--background-light);
+      box-shadow: var(--box-shadow-alt);
+    }
+    .button-3bklZh {
+			height: 100%;
+      padding: 0 6px;
+      &:hover {
+        background: rgba(var(--accent), 1);
+        color: #fff;
+      }
+      &.dangerous-Y36ifs:hover {
+        background: rgba(var(--discord-red) / 1);
+      }
+    }
+  }
+
+  // Cozy
+  .cozy-VmLDNB {
+    background: transparent;
+    padding-top: var(--message-padding);
+    padding-bottom: var(--message-padding);
+    padding-left: 0;
+    margin-left: 16px;
+    margin-right: 8px;
+    position: relative;
+    // Rounded background
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: var(--message-border-radius, var(--border-radius));
+      background: var(--background-alt);
+      z-index: -1;
+    }
+    // Fix positioning for message contents (text and images)
+    .contents-2MsGLg,
+    .container-2sjPya {
+      margin-left: calc(40px + (var(--message-padding) * 2));
+    }
+    // Fix positioning for avatar
+    .avatar-2e8lTP {
+      left: var(--message-padding);
+      top: var(--message-padding);
+      margin-top: 0;
+    }
+    // Add custom spacing between messages
+    &.groupStart-3Mlgv1 {
+      margin-top: var(--message-spacing);
+    }
+    // Every message after groupStart that's not groupStart
+    &.cozy-VmLDNB:not(.groupStart-3Mlgv1) {
+      margin-top: calc(var(--message-padding) / -1);
+      padding-top: .175rem;
+    }
+    // Reduce negative margin and padding
+    .messageContent-2t3eCI {
+      margin-left: -5px;
+      padding-left: 5px;
+    }
+
+    // Timestamps
+    .timestamp-p1Df1m.alt-1dvXnH {
+      width: calc(40px + var(--message-padding));
+      display: flex;
+      justify-content: center;
+    }
+
+    // Mentioned
+    &.mentioned-Tre-dv {
+      .messageContent-2t3eCI {
+        position: relative;
+        &:not(.repliedTextContent-1R3vnK) {
+          color: var(--text-focus);
+        }
+        &:after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          border-radius: 0 var(--border-radius) 0 0;
+          height: 100%;
+          width: calc(100% - var(--message-padding));
+          border-left: 2px solid rgba(var(--discord-yellow) / 1);
+          background: var(--background-mentioned);
+          pointer-events: none;
+        }
+      }
+      .container-2sjPya {
+        position: relative;
+        &:before {
+          content: "";
+          position: absolute;
+          pointer-events: none;
+          top: 0;
+          left: -5px;
+          height: 100%;
+          width: calc(100% - var(--message-padding) + 5px);
+          border-left: 2px solid rgba(var(--discord-yellow) / 1);
+          background: var(--background-mentioned);
+          border-radius: 0 0 var(--border-radius) 0;
+        }
+      }
+    }
+
+    // Replied quote
+    .repliedMessage-3Z6XBG {
+      margin-left: calc(var(--message-padding) + 56px);
+      & + .contents-2MsGLg {
+        .avatar-2e8lTP, img {
+          top: 32px;
+        }
+      }
+      &:before {
+        border-color: var(--text-muted);
+      }
+    }
+    .repliedTextPreview-1bvxun .messageContent-2t3eCI {
+      padding-left: 8px;
+      padding-right: 4px;
+      margin-left: 0;
+      &::after {
+        left: 4px;
+        width: 100%;
+      }
+    }
+
+    // Thread bar thingy
+    &.hasThread-3h-KJV::after {
+      left: 1.8rem;
+      top: 3.5rem;
+      width: 1.5rem;
+    }
+  }
+
+  // Codeblocks
+  .hljs-comment {
+    color: var(--text-muted);
+  }
+
+  // Mentions & Chat jumps
+  .wrapper-1ZcZW- {
+    background: rgba(var(--accent), 0.1);
+    color: rgba(var(--accent), 1);
+    &:hover, &.popout-open {
+      background: rgba(var(--accent), 1);
+      color: #fff;
+    }
+  }
+
+  // Message placeholders
+  .wrapper-3HVHpV {
+    background: transparent;
+  }
+  // Pretty much the same as #L3
+  .wrapper-15CKyy {
+    background: transparent;
+    padding-top: var(--message-padding);
+    padding-bottom: var(--message-padding);
+    padding-left: 0;
+    margin-left: 16px;
+    margin-right: 8px;
+    position: relative;
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: var(--message-border-radius, var(--border-radius));
+      background: var(--background-alt);
+      z-index: -1;
+    }
+    .contents-1UYEBX,
+    .attachmentContainer-1zVy8E {
+      padding-left: calc(40px + (var(--message-padding) * 2));
+    }
+    .avatar-2e8lTP {
+      left: var(--message-padding);
+      top: var(--message-padding);
+      margin-top: 0;
+    }
+    &[style*="margin-top"] {
+      margin-top: var(--message-spacing) !important;
+    }
+    & + .wrapper-15CKyy:not([style*="margin-top"]) {
+      margin-top: calc(var(--message-padding) / -1);
+      padding-top: .175rem;
+    }
+  }
+
+  // Embeds
+  .embedFull-1HGV2S {
+    background: var(--background-dark);
+  }
+
+  // Attachments
+  .attachment-1PZZB2,
+  .wrapperAudio-1Bzv_Z {
+    background: var(--background-dark);
+    border-radius: var(--border-radius);
+    border: none;
+  }
+  .textContainer-36wgKK {
+    border: none;
+    background: var(--background-dark);
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+  }
+  .footer-GXWBBp {
+    background: var(--background);
+    border: none;
+  }
+
+  // Code blocks
+  pre code,
+  code.inline {
+    background: var(--background-dark);
+    border-radius: var(--border-radius);
+    border: none;
+  }
+
+	// Reactions
+	.reaction-3vwAF2 {
+		background: var(--background);
+		&.reactionMe-1PwQAc {
+			background: rgba(var(--accent), 0.2);
+			border-color: rgba(var(--accent), 1);
+			.reactionCount-26U4As {
+				color: rgba(var(--accent), 1);
+			}
+		}
+	}
+
+  // Spoilers
+  .spoilerText-27bIiA.hidden-3B-Rum {
+    background: var(--background-dark)
+  }
+}

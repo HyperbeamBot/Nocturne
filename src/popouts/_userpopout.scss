@@ -1,0 +1,63 @@
+#app-mount .userPopout-2j1gM4 {
+	background: var(--background);
+	border-radius: var(--border-radius);
+	box-shadow: var(--box-shadow);
+	.avatar-3QF_VA {
+		border-color: var(--background);
+		background: var(--background);
+	}
+	.headerNormal-3Zn_yu {
+		background: var(--background);
+	}
+	.headerTop-3GPUSF {
+		background: var(--background);
+	}
+
+
+	.body-2wLx-E,
+	.bodyInnerWrapper-2bQs1k {
+		background: transparent;
+	}
+	
+	.role-2TIOKu {
+		position: relative;
+		z-index: 1;
+		overflow: hidden;
+		border: none;
+		line-height: normal;
+	}
+	.roleCircle-1EgnFN {
+		filter: none;
+		&::after {
+			content: "";
+			position: absolute;
+			height: 24px;
+			width: 100%;
+			left: 0;
+			top: 50%;
+			transform: translateY(-50%);
+			background: inherit;
+			opacity: 0.3;
+			z-index: -1;
+		}
+	}
+
+	.note-Go5ZP2 {
+		margin: 0;
+	}
+
+	.footer-3naVBw {
+		background: transparent;
+	}
+
+	// User bg support
+	&[style*="--user-background"] {
+		.banner-1YaD3N:not(.bannerPremium-kkSkPv) {
+			height: 120px;
+			background: var(--user-background) center/cover;
+		}
+		.avatarPositionNormal-2jWoC2 {
+			top: 76px;
+		}
+	}
+}

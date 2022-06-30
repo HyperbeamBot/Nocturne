@@ -1,0 +1,45 @@
+#app-mount {
+  .checkboxWrapper-2fDzaA {
+    &.checked-1pZh2h .checkbox-f1HnKB {
+      border-color: rgba(var(--accent), 1) !important;
+      background:rgba(var(--accent), 1) !important;
+      path {
+        fill: #fff !important;
+      }
+    }
+  }
+
+  // Checkbox row
+  .checkboxWrapper-2fDzaA.row-31nALW {
+    background: var(--background-light);
+    &.checked-1pZh2h .checkbox-f1HnKB {
+      background: rgba(var(--accent), 1) !important;
+      border-color: rgba(var(--accent), 1) !important;
+    }
+  }
+
+  // Menu Checkbox
+  [role="menuitemcheckbox"][aria-checked="true"] {
+    .checkbox-hADx5o {
+      color: rgba(var(--accent), 1);
+    }
+    &:hover {
+      .checkbox-hADx5o {
+        color: #fff;
+      }
+      .check-1JyqgN {
+        color: rgba(var(--accent), 1);
+      }
+    }
+  }
+
+  // Menu Radio
+  [role="menuitemradio"][aria-checked="true"] {
+    .radioSelection-1UHp0b {
+      color: rgba(var(--accent), 1);
+    }
+    &:hover .radioSelection-1UHp0b {
+      color: #fff;
+    }
+  }
+}
