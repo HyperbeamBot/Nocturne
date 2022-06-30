@@ -21,14 +21,8 @@ git clone https://github.com/Hyperbeam/essence
 
 # Credits
 ### Contributors
-|<a href="https://github.com/Loremly"><img src="https://avatars.githubusercontent.com/u/86319836?v=4" width="90px" height="90px"></a>|<a href="https://github.com/HonbraDev"><img src="https://avatars.githubusercontent.com/u/54026315?v=4" width="90px" height="90px"></a>|
-|:-:|:-:|
-|[Loremly](https://github.com/Loremly)|[HonbraDev](https://github.com/HonbraDev)|
-
-### Helpers
-|<a href="https://github.com/doggybootsy"><img src="https://avatars.githubusercontent.com/u/71196819?v=4" width="90px" height="90px"></a>|<a href="https://github.com/SlippingGitty"><img src="https://avatars.githubusercontent.com/u/76500838?v=4" width="90px" height="90px"></a>|<a href="https://github.com/Iucism"><img src="https://avatars.githubusercontent.com/u/105166639?v=4" width="90px" height="90px"></a>|
-|:-:|:-:|:-:|
-|[doggybootsy](https://github.com/doggybootsy)|[SlippingGitty](https://github.com/SlippingGitty)|[Iucism](https://github.com/Iucism)|
+|<a href="https://github.com/HyperbeamBot"><img src="https://avatars.githubusercontent.com/u/107874632?v=4" width="90px" height="90px"></a>
+|[Hyperbeam](https://github.com/HyperbeamBot)
 
 ### Inspiration
 - [Lavender](https://github.com/Lavender-Discord/Lavender)
