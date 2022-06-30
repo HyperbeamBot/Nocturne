@@ -6,19 +6,19 @@
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
 Head over to your **Themes folder -> open your terminal of choice -> copy-paste the following, then press enter**:
 ```
-git clone https://github.com/Hyperbeam/essence
+git clone https://github.com/Hyperbeam/Nocturne
 ```
 
 ### **[BetterDiscord](https://betterdiscord.app/)**
 - [Direct Download](https://betterdiscord.app/Download?id=733)
-- [Site Page](https://betterdiscord.app/theme/Essence)
+- [Site Page](https://betterdiscord.app/theme/Nocturne)
 - [Source](https://Hyperbeam.github.io/essence/src/source.css)
 
 ### **Stylus**
 1. Install the browser extension for your respective browser.
     - [Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
     - [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2. Once you have the browser extension, head over to [this link](https://github.com/Hyperbeam/essence/raw/main/clients/stylus/essence.user.css). It will open a new window to the page to install the style.
+2. Once you have the browser extension, head over to [this link](https://github.com/Hyperbeambot/Nocturne/raw/main/clients/stylus/Nocturne.user.css). It will open a new window to the page to install the style.
 3. Press the "Install Style" button.
 
 # Credits
