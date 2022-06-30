@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/f86cc6cab2384e1737b27576e6ab569ca19de91b315ada154575e366bd378802/68747470733a2f2f636f6d66792d7468656d65732e6769746875622e696f2f446973636f72642f6173736574732f62616e6e65722e706e67" alt="Banner" data-canonical-src="https://i.imgur.com/K4ExXsS.png" style="max-width: 100%;">
+<img src="https://i.imgur.com/K4ExXsS.png" alt="Banner" data-canonical-src="https://i.imgur.com/K4ExXsS.png" style="max-width: 100%;">
 
 # Downloads
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
