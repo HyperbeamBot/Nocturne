@@ -1,4 +1,6 @@
 <img src="https://i.imgur.com/31gnkEl.png" alt="Banner" data-canonical-src="https://i.imgur.com/31gnkEl.png" style="max-width: 100%;">
+<img src="https://i.imgur.com/GMnI52s.png">
+<font size="2">For more previews, check out the previews.md file.</font>
 
 # Downloads
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
@@ -33,6 +35,3 @@ git clone https://github.com/Hyperbeam/essence
 ### Included Addons
 - [Friends Grid](https://github.com/CreArts-Community/Friends-Grid) - [View License](https://github.com/CreArts-Community/Friends-Grid/blob/master/license)
 - [IconsaxDiscord](https://github.com/Lavender-Discord/IconsaxDiscord) - [View License](https://github.com/Lavender-Discord/IconsaxDiscord/blob/main/LICENSE)
-
-<img src="https://i.imgur.com/GMnI52s.png">
-<font size="2">For more previews, check out the previews.md file.</font>
