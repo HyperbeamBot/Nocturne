@@ -22,7 +22,7 @@ git clone https://github.com/Hyperbeam/essence
 # Credits
 ### Contributors
 |<a href="https://github.com/HyperbeamBot"><img src="https://avatars.githubusercontent.com/u/107874632?v=4" width="90px" height="90px"></a>|
-|:-:|:-:|
+|:-:|:-:|</a>|
 |[Hyperbeam](https://github.com/HyperbeamBot)|
 
 ### Inspiration
