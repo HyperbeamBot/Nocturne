@@ -1,5 +1,5 @@
 # Nocturne
-<a target="_blank" rel="noopener noreferrer" href="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847"><img src="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847" data-canonical-src="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://i.imgur.com/GMnI52s.png"><img src="https://i.imgur.com/GMnI52s.png" data-canonical-src="https://i.imgur.com/GMnI52s.png" style="max-width: 100%;"></a>
 
 For more previews, check out the previews.md file.
 
