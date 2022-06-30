@@ -46,7 +46,6 @@ For more previews, check out the previews.md file.
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/Loremly"><img src="https://avatars.githubusercontent.com/u/86319836?v=4" width="90px" height="90px" style="max-width: 100%;"></a></th>
-<th align="center"><a href="https://github.com/HonbraDev"><img src="https://avatars.githubusercontent.com/u/54026315?v=4" width="90px" height="90px" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 <tbody>
