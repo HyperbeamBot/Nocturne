@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/K4ExXsS.png" alt="Banner" data-canonical-src="https://i.imgur.com/K4ExXsS.png" style="max-width: 100%;">
+<img src="https://i.imgur.com/31gnkEl.png" alt="Banner" data-canonical-src="https://i.imgur.com/31gnkEl.png" style="max-width: 100%;">
 
 # Downloads
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
