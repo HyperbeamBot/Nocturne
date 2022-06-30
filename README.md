@@ -1,6 +1,4 @@
 # Nocturne
-Thème Discord 
-
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4a1973e83260c24e999d1cc6b48259382e434e2d64641b9fa81983fecd1be22e/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f657373656e63652f6173736574732f70726576696577732f7468656d652d64656661756c742d6d69782e706e67"><img src="https://camo.githubusercontent.com/4a1973e83260c24e999d1cc6b48259382e434e2d64641b9fa81983fecd1be22e/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f657373656e63652f6173736574732f70726576696577732f7468656d652d64656661756c742d6d69782e706e67" data-canonical-src="https://discord-extensions.github.io/essence/assets/previews/theme-default-mix.png" style="max-width: 100%;"></a>
 
 For more previews, check out the previews.md file.
@@ -11,9 +9,9 @@ For more previews, check out the previews.md file.
 
 <p dir="auto">Head over to your <strong>Themes folder -&gt; open your terminal of choice -&gt; copy-paste the following, then press enter</strong>:</p>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/discord-extensions/essence
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/discord-extensions/nocturne
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/discord-extensions/essence" tabindex="0" role="button">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/discord-extensions/nocturne" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
