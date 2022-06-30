@@ -1,5 +1,5 @@
 # Nocturne
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4a1973e83260c24e999d1cc6b48259382e434e2d64641b9fa81983fecd1be22e/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f657373656e63652f6173736574732f70726576696577732f7468656d652d64656661756c742d6d69782e706e67"><img src="https://camo.githubusercontent.com/4a1973e83260c24e999d1cc6b48259382e434e2d64641b9fa81983fecd1be22e/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f657373656e63652f6173736574732f70726576696577732f7468656d652d64656661756c742d6d69782e706e67" data-canonical-src="https://discord-extensions.github.io/essence/assets/previews/theme-default-mix.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847"><img src="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847" data-canonical-src="blob:https://imgur.com/d6d877a6-409b-4e3d-ac53-503d7f3b2847" style="max-width: 100%;"></a>
 
 For more previews, check out the previews.md file.
 
