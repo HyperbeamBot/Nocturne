@@ -21,8 +21,9 @@ git clone https://github.com/Hyperbeam/essence
 
 # Credits
 ### Contributors
-|<a href="https://github.com/HyperbeamBot"><img src="https://avatars.githubusercontent.com/u/107874632?v=4" width="90px" height="90px"></a>
-|[Hyperbeam](https://github.com/HyperbeamBot)
+|<a href="https://github.com/HyperbeamBot"><img src="https://avatars.githubusercontent.com/u/107874632?v=4" width="90px" height="90px"></a>|
+|:-:|:-:|
+|[Hyperbeam](https://github.com/HyperbeamBot)|
 
 ### Inspiration
 - [Lavender](https://github.com/Lavender-Discord/Lavender)
